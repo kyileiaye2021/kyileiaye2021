@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyileiaye2021
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning introduction to computer science.
+- 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 You can reach me via ayekyilei2003@gmail.com
 
