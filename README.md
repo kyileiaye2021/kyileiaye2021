@@ -1,6 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
+
 <h1 align="center">Hi 👋, I'm Kyi Lei Aye</h1>
 <h3 align="center">A passionate Computer Science Undergrad Student to become a software engineer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8FvvXjYKhSP2cASxq3YT4X9bT0MNc6W-UA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyileiaye2021&label=Profile%20views&color=0e75b6&style=flat" alt="kyileiaye2021" /> </p>
@@ -21,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyi-lei-aye-127a7b253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyi-lei-aye-127a7b253/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kyi.l.aye/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kyi.l.aye/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kyileiaye2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kyileiaye2021/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kyi-lei-aye-127a7b253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyi-lei-aye-127a7b253" height="30" width="40" /></a>
+<a href="https://instagram.com/kyi.l.aye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyi.l.aye" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kyileiaye2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kyileiaye2021" height="30" width="40" /></a>
+<a href="https://discord.gg/kyi0637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kyi0637" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
