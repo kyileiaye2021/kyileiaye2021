@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 
 <h1 align="center">Hi 👋, I'm Kyi Lei Aye</h1>
-<h3 align="center">A passionate Computer Science Undergrad Student to become a software engineer</h3>
+<h3 align="center">A passionate Computer Science Undergrad Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8FvvXjYKhSP2cASxq3YT4X9bT0MNc6W-UA&s">
 
