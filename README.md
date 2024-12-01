@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ayekyilei2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JzmXRixrmO0fBjg_jq4dF7Z3seNMWWJF/view?usp=sharing](https://drive.google.com/file/d/1JzmXRixrmO0fBjg_jq4dF7Z3seNMWWJF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o5hPaTo634TMjWKqXPjfkeQzNFGlEZmp/view?usp=sharing](https://drive.google.com/file/d/1o5hPaTo634TMjWKqXPjfkeQzNFGlEZmp/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy ice-skating and sudoku.**
 
