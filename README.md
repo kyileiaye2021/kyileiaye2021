@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flasks and technical interview resources.**
 
-- 👯 I’m looking to collaborate on **AI integrated projects**
+- 👯 I’m looking to collaborate on **AI/ML projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyileiaye2021?tab=repositories](https://github.com/kyileiaye2021?tab=repositories)
 
